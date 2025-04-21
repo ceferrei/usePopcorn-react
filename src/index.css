@@ -27,6 +27,8 @@ body {
   color: var(--color-text);
   background-color: var(--color-background-900);
   padding: 2.4rem;
+  padding-top: 5rem;
+
 }
 
 /* ******* */
@@ -54,7 +56,7 @@ body {
   max-width: 42rem;
   background-color: var(--color-background-500);
   border-radius: 0.9rem;
-  overflow: scroll;
+  overflow: auto;
   position: relative;
 }
 
@@ -138,7 +140,6 @@ body {
 .list {
   list-style: none;
   padding: 0.8rem 0;
-  overflow: scroll;
 }
 
 .list-watched {
@@ -378,4 +379,4 @@ EMPTY STAR
   />
 </svg>
 
-*/
+ */
