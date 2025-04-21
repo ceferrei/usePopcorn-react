@@ -6,7 +6,7 @@ UsePopcorn is a modern React application that helps you discover movies and keep
 
 
 <p align="center">
-  <img src="public/usePopcorn.png" alt="Screenshot" width="400" />
+  <img src="public/usePopcorn.PNG" alt="Screenshot" width="400" />
 </p>
 
 
