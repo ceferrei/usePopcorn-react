@@ -5,7 +5,9 @@ UsePopcorn is a modern React application that helps you discover movies and keep
 ## Demo
 
 
-![Screenshot of CineMate](public/usePopcorn.png)
+<p align="center">
+  <img src="public/usePopcorn.png" alt="Screenshot" width="400" />
+</p>
 
 
 ##  Getting Started
